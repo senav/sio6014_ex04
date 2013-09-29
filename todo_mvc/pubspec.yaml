@@ -1,0 +1,13 @@
+name: todo_mvc
+description: A sample command-line application
+#dependencies:
+#  unittest: any
+
+name: todo_mvc
+version: 0.0.1
+author: Sergio Navarro <sergio.navarro.1@ulaval.ca>
+description: An example how to use Dartlero, a model framework for educational purposes.
+homepage: http://ondart.me/
+dependencies:
+  dartlero:
+    git: git://github.com/dzenanr/dartlero.git
