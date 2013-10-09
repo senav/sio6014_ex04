@@ -1,0 +1,7 @@
+ex04
+
+?/10
+
+Create a model in dartlero for the standard TodoMVC web application. 
+
+modèle ?
