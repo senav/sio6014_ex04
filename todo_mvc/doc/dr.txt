@@ -1,11 +1,9 @@
 ex04
 
-?/10
+8/10
 
-travailler avec Jean-Francois Robichaud ?
-
-Create a model in dartlero for the standard TodoMVC web application. 
+Create a model in dartlero for the standard TodoMVC web application.
 
 modèle ?
 
-ton modèle ne correspond en aucune manière à TodoMVC
+(-2) ton modèle ne correspond en aucune manière à TodoMVC
